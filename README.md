@@ -49,6 +49,10 @@ The setup used the SRF02 Ultrasonic Sensor, which is a single transducer ultraso
 
 B.	UDP Client Software
 The UDP_Client program is a vital tool in acquiring data from the Red Pitaya in this project. The program was developed by Daniel Schäfer from the Frankfurt University of Applied Sciences, and it boasts a user-friendly Graphical User Interface (GUI) as shown in Fig. 2. Through the use of this program, the team is able to efficiently gather data from the Red Pitaya, which is crucial for the success of the project. Sample Picture Shown Below.
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/74227867/229152785-e6728c95-6209-439c-9221-49b3015abd46.png">
+</p>
 ![image](https://user-images.githubusercontent.com/74227867/229152785-e6728c95-6209-439c-9221-49b3015abd46.png)
 
 C.	Measurement System
