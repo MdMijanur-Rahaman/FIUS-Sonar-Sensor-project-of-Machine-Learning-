@@ -41,7 +41,7 @@ For this project the following objectives are accomplished:
 --------------------------------
 A.	SRF02 Ultrasonic Sensor with Red Pitaya
 The setup used the SRF02 Ultrasonic Sensor, which is a single transducer ultrasonic rangefinder on a small PCB uses for both transmission and reception. Here single transducer resulting a higher minimum range than other dual transducer rangers. The minimum measurement range is around 15cm, and it can function with a 5V grounded power supply. Sample picture shown below.
-<p align="center">![image](https://user-images.githubusercontent.com/74227867/229152556-8a63117c-9546-4423-a55e-53e52e278c9c.png)</p>
+![image](https://user-images.githubusercontent.com/74227867/229152556-8a63117c-9546-4423-a55e-53e52e278c9c.png)
 
 
 B.	UDP Client Software
